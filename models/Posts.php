@@ -1,4 +1,7 @@
 <?php
+
+//https://www.youtube.com/watch?v=OEWXbpUMODk&t=1187s
+
 class Post{
     //DB stuff
     private $conn;
